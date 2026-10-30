@@ -1,10 +1,10 @@
-# 走るか寝るかするメロス
+# 消えた観測ログ
 
 ## 概要
 
-ティラノスクリプトのサンプルコード。
+選択肢が2つある短いゲーム。
 
-* [テストプレイ](https://appi-github.github.io/tyrano_sample/)
+* [テストプレイ](https://reimangod.github.io/tyrano_sample/)
 
 ## ライセンス
 
